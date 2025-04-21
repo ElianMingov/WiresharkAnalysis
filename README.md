@@ -9,9 +9,9 @@ The reports demonstrate hands-on SOC skills including packet inspection, IOC ext
 
 ### 1. Wireshark Phishing Analysis Report
 - Analysis of a phishing email delivery attempt
-- Inspection of SMTP and HTTP traffic
 - Identification of malicious payload delivery
 - IOCs extracted and infection flow documented
+- Static code analysis of a VBScript encoded (VBE) file
 
 📄 File: `Phishing Email Investigation and Malware Analysis.pdf`
 
@@ -19,7 +19,7 @@ The reports demonstrate hands-on SOC skills including packet inspection, IOC ext
 
 ### 2. Agent Tesla - Network Forensics Report
 - Investigation of Agent Tesla malware via captured network traffic
-- Detection of C2 communication and credential exfiltration
+- Inspection of SMTP and HTTP traffic
 - Full infection chain breakdown with visuals
 - Mapped to MITRE ATT&CK techniques
 
