@@ -1,5 +1,3 @@
-# Wireshark Analysis Projects
-
 # Wireshark Analysis Reports
 
 This repository contains network traffic analysis reports based on real PCAP investigations performed using Wireshark.  
